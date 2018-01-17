@@ -3,12 +3,9 @@ Structure of Programming Languages
 
 Reference of common commands:
 
-git remote add <repo name> <url> //link remote to local
-  
-git log  //history of commits to master
-
-git status //orientation
-
+git remote add <repo name> <url> //link remote to local  
+git log  //history of commits to master  
+git status //orientation  
 git add <file>  //stage
   
   git add 343-HW1/  //stage all files within directory
